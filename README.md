@@ -1,54 +1,29 @@
-# Expense Tracker App — Starter Project
+# Submission: Belajar Membuat Front-End Web untuk Pemula
 
-Selamat datang di *starter project* submission kelas **Front-End Web Pemula**! 🎉
+Halo! Ini adalah repositori untuk tugas akhir saya dalam modul Belajar Membuat Front-End Web untuk Pemula yang diselenggarakan oleh Dicoding Indonesia. Proyek ini merupakan bagian dari perjalanan belajar saya di program Coding Camp 2026.
 
-Proyek ini sudah dilengkapi dengan tampilan HTML dan CSS yang siap pakai. Tugas Anda adalah melengkapi logika JavaScript-nya di berkas `main.js` agar aplikasi berfungsi sepenuhnya.
+🚀 Fitur & Kriteria Tugas
 
----
+- **Manipulasi DOM**: Aplikasi dapat berinteraksi langsung dengan DOM menggunakan Event Listener untuk mengelola data.
+- **Penyimpanan Data (Web Storage)**: Implementasi LocalStorage untuk menyimpan data transaksi secara persisten sehingga tidak hilang saat halaman di-refresh.
+- **Fungsionalitas Aplikasi**: Memiliki fitur utama untuk mencatat pemasukan dan pengeluaran keuangan, serta fitur tambahan (seperti edit, hapus, atau pencarian transaksi).
 
-## Struktur Berkas
+🛠️ Teknologi yang Digunakan
 
-```
-expense-tracker-starter-project/
-├── index.html   ← Struktur halaman (jangan diubah, kecuali bagian greeting)
-├── style.css    ← Tampilan visual (bebas dimodifikasi untuk portofolio)
-├── main.js      ← Tempat Anda menulis seluruh logika JavaScript
-└── README.md    ← Panduan ini
-```
+- HTML
+- CSS
+- JavaScript
 
----
+📝 Catatan Proyek
+Proyek ini dibuat sebagai bentuk evaluasi pemahaman mengenai dasar-dasar pemrograman JavaScript pada browser, manipulasi elemen HTML melalui DOM, dan pemanfaatan Web Storage.
 
-## Cara Menjalankan Proyek
+📜 Hak Cipta & Pengakuan (Copyright & Acknowledgement)
+This project is a result of the final assignment in the Coding Camp 2026 training, a collaborative program between DBS Foundation and Dicoding Indonesia.
 
-Proyek ini adalah HTML statis, sehingga tidak memerlukan instalasi apapun.
+- **Program**: Coding Camp 2026 powered by DBS Foundation
+- **Penyelenggara**: Dicoding Indonesia
+- **Dukungan**: DBS Foundation | Road to Future Workforce
 
-**Opsi 1 (Disarankan):** Gunakan ekstensi **Live Server** di VS Code.
-1. Klik kanan pada `index.html`
-2. Pilih **"Open with Live Server"**
-3. Browser akan terbuka otomatis di `http://127.0.0.1:5500`
+Informasi lebih lanjut mengenai program ini dapat dilihat melalui link resmi: [DBS Coding Camp](https://www.dicoding.com/challenges/dbs-coding-camp-2026).
 
-**Opsi 2:** Buka langsung berkas `index.html` di browser (klik dua kali dari File Explorer).
-
----
-
-## Mulai dari Mana?
-
-1. **Buka `index.html`**, temukan komentar `TODO` di bagian atas dan ganti teks `Siswa Front-End` dengan nama lengkap serta username Dicoding Anda.
-2. **Buka `main.js`**, baca semua komentar `TODO` dari atas ke bawah. Setiap TODO menunjukkan satu bagian logika yang perlu Anda tulis.
-3. Mulai dari TODO berlabel `[Basic]`, kemudian lanjut ke `[Skilled]` dan `[Advanced]` sesuai target nilai Anda.
-
----
-
-## Catatan Penting
-
-- **Atribut `data-testid`** pada elemen-elemen di `index.html` digunakan oleh sistem penilaian untuk memverifikasi struktur aplikasi Anda. Pastikan nilai atribut ini tidak berubah saat Anda membuat elemen kartu transaksi via JavaScript.
-- **Atribut `id`** seperti `incomeList`, `expenseList`, dan `transactionForm` juga digunakan oleh JavaScript. Pastikan nilainya tidak berubah.
-- Anda **bebas mengubah** warna, font, layout, dan styling di `style.css` untuk membuat tampilan yang unik dan personal.
-
----
-
-## Cara Mengumpulkan
-
-1. Pastikan semua fitur sudah berjalan dengan baik di browser.
-2. Kompres seluruh folder proyek menjadi satu berkas **ZIP**.
-3. Unggah berkas ZIP tersebut ke halaman submission di platform Dicoding.
+© 2026 rafikahfi. All Copyrights Reserved.
